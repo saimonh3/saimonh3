@@ -1,16 +1,16 @@
-### Hi there 👋
+<p>
+  <a href="https://twitter.com/msaimonh3">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/msaimonh3?color=1DA1F2&logo=twitter&style=for-the-badge">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/saimonh3/">
+    <img alt="Twitter Follow" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
-<!--
-**saimonh3/saimonh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=saimonh3&show_icons=true" align="right" height="180" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :boom: Software Engineer
+- 🖤 PHP, Go, Laravel, WordPress
+- :computer: Currently working <a href="http://premium.wpmudev.org/">@wpmudev</a>
+- 🚀 Love exploring new technologies
