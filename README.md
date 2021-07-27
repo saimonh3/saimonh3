@@ -12,5 +12,5 @@
 
 - :boom: Software Engineer
 - 🖤 PHP, Go, Laravel, WordPress
-- :computer: Currently working <a href="https://rtcamp.com/">@rtCamp</a>
+- :computer: Currently working <a href="https://rtcamp.com/">@trewknowledge</a>
 - 🚀 Love exploring new technologies
