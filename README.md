@@ -11,6 +11,6 @@
 <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=saimonh3&show_icons=true" align="right" height="180"/>
 
 - :boom: Software Engineer
-- 🖤 PHP, Node, Go, React, Laravel, WordPress
+- 🖤 PHP, Node, Go, React, WordPress
 - :computer: Currently working <a href="https://trewknowledge.com/">@trewknowledge</a>
 - 🚀 Love exploring new technologies
